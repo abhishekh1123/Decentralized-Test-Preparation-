@@ -84,5 +84,13 @@ To deploy and run this project locally:
    ```
 
 ---
+![Screenshot from 2024-08-23 17-12-05](https://github.com/user-attachments/assets/105daad1-5f7f-40c6-be9a-20b42e591325)
 
-This README file provides a clear and concise overview of your project, including its vision, features, and how others can get involved or contact you.
+![Screenshot from 2024-08-23 17-12-26](https://github.com/user-attachments/assets/f6295a4f-91df-490b-bc5e-afe5653a0331)
+
+![Screenshot from 2024-08-23 17-12-41](https://github.com/user-attachments/assets/8a49c7f1-430e-4841-be81-62400ad380d6)
+
+![Screenshot from 2024-08-23 17-13-33](https://github.com/user-attachments/assets/294e8c5c-c491-4d0e-a099-60289dbf1f0a)
+
+
+
