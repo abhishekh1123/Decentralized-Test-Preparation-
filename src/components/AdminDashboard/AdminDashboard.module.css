@@ -1,0 +1,178 @@
+/* AdminDashboard.module.css
+
+.adminDashboard {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    color: #4a90e2;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.dashboardSection {
+    margin-bottom: 30px;
+}
+
+.sectionTitle {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.inputField, .selectField {
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+.addButton {
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.addButton:hover {
+    background-color: #357abd;
+}
+
+.participantsList,
+.recentRewardsList,
+.activityList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.participantItem,
+.rewardItem,
+.activityItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #eef2f7;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.participantItem span,
+.rewardItem span,
+.activityItem span {
+    font-size: 16px;
+}
+
+.rewardItem span:last-child,
+.activityItem span:last-child {
+    font-size: 14px;
+    color: #888;
+}
+
+@media (max-width: 768px) {
+    .inputField, .selectField, .addButton {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+} */
+
+
+.adminDashboard {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .adminDashboard:hover {
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .header {
+    color: #4a90e2;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .dashboardSection {
+    margin-bottom: 20px;
+  }
+  
+  .sectionTitle {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #555;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+  }
+  
+  .inputField, .selectField {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .addButton {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+  }
+  
+  .addButton:hover {
+    background-color: #357abd;
+  }
+  
+  .participantsList, .recentRewardsList, .activityList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .participantItem, .rewardItem, .activityItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    align-items: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .participantItem:hover, .rewardItem:hover, .activityItem:hover {
+    background-color: #eef2f7;
+  }
+  
+  .participantItem span, .rewardItem span, .activityItem span {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  @media (max-width: 768px) {
+    .inputField, .selectField, .addButton {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  
